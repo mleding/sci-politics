@@ -2,6 +2,20 @@
 project-deliverables-mleding created by GitHub Classroom
 
 
+Executive Summary: This project uses county level social connectedness data from Facebook’s Data for Good
+as well as demographic factors like race, education, income, and gender to predict voter
+participation in the 2020 election. The work begins with sourcing and engineering data, in
+particular, pivoting social connectedness data into distance buckets, normalizing into
+proportions, and joining datasets together by county. Then, models are generated using OLS
+linear regressions, Forward Step Feature Selection, Lasso Regression, General Linear Modelling,
+and XGBoost with Randomized Search parameter tuning. Models are compared by using root
+MSE scores to select for the most effective model. Finally, comparisons are made between
+models containing Social Connectedness Data as well as those without it to examine whether
+social connectedness has any predictive power towards vote participation. 
+
+------
+
+
 Hi Visitors!
 
 This repository has the files as well as my code for the project. BIG NOTE, github won't let me upload data files greater than 100MB. I was able
