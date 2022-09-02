@@ -9,6 +9,8 @@ to get around most of it by compressing the files. There is one data files that 
 
 This repository contains:
 
+annotated_project_report.pdf: this is documentation and analysis of project. Please start here.
+
 project_code.ipynb: this is a jupyter notebook file containing all my code. This contains 617 lines of code.
 
 County_CVAP.csv.zip: this is a zip file for the county citizen voter age population data. Git won't let me upload files over 100mb so this needs to be unzipped and 
