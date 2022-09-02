@@ -2,7 +2,7 @@
 project-deliverables-mleding created by GitHub Classroom
 
 
-Hi Dave and Graders!
+Hi Visitors!
 
 This repository has the files as well as my code for the project. BIG NOTE, github won't let me upload data files greater than 100MB. I was able
 to get around most of it by compressing the files. There is one data files that needs to be downloaded from the source.
